@@ -1,1 +1,690 @@
-{"idShort":"CarbonFootprint_02025","administration":{"version":"0","revision":"9"},"id":"https://demofabrik-siegen.de/BatteryCell/CarbonFootprint","kind":"Instance","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#01-AHE712#001"}]},"submodelElements":[{"idShort":"ProductCarbonFootprint01","description":[{"language":"en","text":"Balance of greenhouse gas emissions along the entire life cycle of a product in a defined application and in relation to a defined unit of use"}],"semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#01-AHE712#001"}]},"value":[{"category":"PARAMETER","idShort":"PCFCalculationMethod","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG854#001"}]},"valueType":"xs:string","value":"ISO 14067","valueId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#07-ABU218#001"}]},"modelType":"Property"},{"category":"PARAMETER","idShort":"PCFCO2eq","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG855#001"}]},"valueType":"xs:float","value":"82.5","modelType":"Property"},{"category":"PARAMETER","idShort":"PCFReferenceValueForCalculation","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG856#001"}]},"valueType":"xs:string","value":"kg","valueId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#07-ABZ597#001"}]},"modelType":"Property"},{"category":"PARAMETER","idShort":"PCFQuantityOfMeasureForCalculation","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG857#001"}]},"valueType":"xs:double","value":"1","modelType":"Property"},{"category":"PARAMETER","idShort":"PCFLiveCyclePhase","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG858#001"}]},"valueType":"xs:string","value":"A1 (Raw Material)","valueId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#07-ABZ208#001"}]},"modelType":"Property"},{"idShort":"PCFGoodsAddressHandover","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABI497#001"}]},"value":[{"category":"PARAMETER","idShort":"Street","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABH956#001"}]},"valueType":"xs:string","value":"Siegener Stra\u00DFe 152","modelType":"Property"},{"category":"PARAMETER","idShort":"HouseNumber","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABH957#001"}]},"valueType":"xs:string","value":"55","modelType":"Property"},{"category":"PARAMETER","idShort":"ZipCode","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABH958#001"}]},"valueType":"xs:string","value":"57223","modelType":"Property"},{"category":"PARAMETER","idShort":"CityTown","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABH959#001"}]},"valueType":"xs:string","value":"Kreuztal","modelType":"Property"},{"category":"PARAMETER","idShort":"Country","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-AAO259#005"}]},"valueType":"xs:string","value":"Germany","modelType":"Property"}],"modelType":"SubmodelElementCollection"}],"modelType":"SubmodelElementCollection"},{"idShort":"ProductCarbonFootprint02","description":[{"language":"en","text":"Balance of greenhouse gas emissions along the entire life cycle of a product in a defined application and in relation to a defined unit of use"}],"semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#01-AHE712#001"}]},"value":[{"category":"PARAMETER","idShort":"PCFCalculationMethod","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG854#001"}]},"valueType":"xs:string","value":"ISO 14067","valueId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#07-ABU218#001"}]},"modelType":"Property"},{"category":"PARAMETER","idShort":"PCFCO2eq","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG855#001"}]},"valueType":"xs:float","value":"137.7","modelType":"Property"},{"category":"PARAMETER","idShort":"PCFReferenceValueForCalculation","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG856#001"}]},"valueType":"xs:string","value":"kg","valueId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#07-ABZ597#001"}]},"modelType":"Property"},{"category":"PARAMETER","idShort":"PCFQuantityOfMeasureForCalculation","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG857#001"}]},"valueType":"xs:double","value":"1","modelType":"Property"},{"category":"PARAMETER","idShort":"PCFLiveCyclePhase","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG858#001"}]},"valueType":"xs:string","value":"A2 (Cradle to Grate)","valueId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#07-ABZ209#001"}]},"modelType":"Property"},{"idShort":"PCFGoodsAddressHandover","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABI497#001"}]},"value":[{"category":"PARAMETER","idShort":"Street","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABH956#001"}]},"valueType":"xs:string","value":"Siegener Stra\u00DFe 152","modelType":"Property"},{"category":"PARAMETER","idShort":"HouseNumber","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABH957#001"}]},"valueType":"xs:string","value":"55","modelType":"Property"},{"category":"PARAMETER","idShort":"ZipCode","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABH958#001"}]},"valueType":"xs:string","value":"57223","modelType":"Property"},{"category":"PARAMETER","idShort":"CityTown","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABH959#001"}]},"valueType":"xs:string","value":"Kreuztal","modelType":"Property"},{"category":"PARAMETER","idShort":"Country","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-AAO259#005"}]},"valueType":"xs:string","value":"Germany","modelType":"Property"}],"modelType":"SubmodelElementCollection"}],"modelType":"SubmodelElementCollection"},{"idShort":"ProductCarbonFootprint03","description":[{"language":"en","text":"Balance of greenhouse gas emissions along the entire life cycle of a product in a defined application and in relation to a defined unit of use"}],"semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#01-AHE712#001"}]},"value":[{"category":"PARAMETER","idShort":"PCFCalculationMethod","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG854#001"}]},"valueType":"xs:string","value":"ISO 14067","valueId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#07-ABU218#001"}]},"modelType":"Property"},{"category":"PARAMETER","idShort":"PCFCO2eq","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG855#001"}]},"valueType":"xs:float","value":"55.2","modelType":"Property"},{"category":"PARAMETER","idShort":"PCFReferenceValueForCalculation","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG856#001"}]},"valueType":"xs:string","value":"kg","valueId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#07-ABZ597#001"}]},"modelType":"Property"},{"category":"PARAMETER","idShort":"PCFQuantityOfMeasureForCalculation","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG857#001"}]},"valueType":"xs:double","value":"1","modelType":"Property"},{"category":"PARAMETER","idShort":"PCFLiveCyclePhase","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABG858#001"}]},"valueType":"xs:string","value":"A3 (Production)","valueId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#07-ABZ210#001"}]},"modelType":"Property"},{"idShort":"PCFGoodsAddressHandover","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABI497#001"}]},"value":[{"category":"PARAMETER","idShort":"Street","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABH956#001"}]},"valueType":"xs:string","value":"Siegener Stra\u00DFe 152","modelType":"Property"},{"category":"PARAMETER","idShort":"HouseNumber","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABH957#001"}]},"valueType":"xs:string","value":"55","modelType":"Property"},{"category":"PARAMETER","idShort":"ZipCode","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABH958#001"}]},"valueType":"xs:string","value":"57223","modelType":"Property"},{"category":"PARAMETER","idShort":"CityTown","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-ABH959#001"}]},"valueType":"xs:string","value":"Kreuztal","modelType":"Property"},{"category":"PARAMETER","idShort":"Country","semanticId":{"type":"ExternalReference","keys":[{"type":"GlobalReference","value":"0173-1#02-AAO259#005"}]},"valueType":"xs:string","value":"Germany","modelType":"Property"}],"modelType":"SubmodelElementCollection"}],"modelType":"SubmodelElementCollection"}],"modelType":"Submodel"}
+{
+  "idShort": "CarbonFootprint_02025",
+  "administration": {
+    "version": "0",
+    "revision": "9"
+  },
+  "id": "https://demofabrik-siegen.de/BatteryCell/CarbonFootprint",
+  "kind": "Instance",
+  "semanticId": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "0173-1#01-AHE712#001"
+      }
+    ]
+  },
+  "submodelElements": [
+    {
+      "idShort": "ProductCarbonFootprint01",
+      "description": [
+        {
+          "language": "en",
+          "text": "Balance of greenhouse gas emissions along the entire life cycle of a product in a defined application and in relation to a defined unit of use"
+        }
+      ],
+      "semanticId": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "0173-1#01-AHE712#001"
+          }
+        ]
+      },
+      "value": [
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFCalculationMethod",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG854#001"
+              }
+            ]
+          },
+          "valueType": "xs:string",
+          "value": "ISO 14067",
+          "valueId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#07-ABU218#001"
+              }
+            ]
+          },
+          "modelType": "Property"
+        },
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFCO2eq",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG855#001"
+              }
+            ]
+          },
+          "valueType": "xs:float",
+          "value": "82.5",
+          "modelType": "Property"
+        },
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFReferenceValueForCalculation",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG856#001"
+              }
+            ]
+          },
+          "valueType": "xs:string",
+          "value": "kg",
+          "valueId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#07-ABZ597#001"
+              }
+            ]
+          },
+          "modelType": "Property"
+        },
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFQuantityOfMeasureForCalculation",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG857#001"
+              }
+            ]
+          },
+          "valueType": "xs:double",
+          "value": "1",
+          "modelType": "Property"
+        },
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFLiveCyclePhase",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG858#001"
+              }
+            ]
+          },
+          "valueType": "xs:string",
+          "value": "A1 (Raw Material)",
+          "valueId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#07-ABZ208#001"
+              }
+            ]
+          },
+          "modelType": "Property"
+        },
+        {
+          "idShort": "PCFGoodsAddressHandover",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABI497#001"
+              }
+            ]
+          },
+          "value": [
+            {
+              "category": "PARAMETER",
+              "idShort": "Street",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-ABH956#001"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "Siegener Straße 152",
+              "modelType": "Property"
+            },
+            {
+              "category": "PARAMETER",
+              "idShort": "HouseNumber",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-ABH957#001"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "55",
+              "modelType": "Property"
+            },
+            {
+              "category": "PARAMETER",
+              "idShort": "ZipCode",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-ABH958#001"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "57223",
+              "modelType": "Property"
+            },
+            {
+              "category": "PARAMETER",
+              "idShort": "CityTown",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-ABH959#001"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "Kreuztal",
+              "modelType": "Property"
+            },
+            {
+              "category": "PARAMETER",
+              "idShort": "Country",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-AAO259#005"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "Germany",
+              "modelType": "Property"
+            }
+          ],
+          "modelType": "SubmodelElementCollection"
+        }
+      ],
+      "modelType": "SubmodelElementCollection"
+    },
+    {
+      "idShort": "ProductCarbonFootprint02",
+      "description": [
+        {
+          "language": "en",
+          "text": "Balance of greenhouse gas emissions along the entire life cycle of a product in a defined application and in relation to a defined unit of use"
+        }
+      ],
+      "semanticId": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "0173-1#01-AHE712#001"
+          }
+        ]
+      },
+      "value": [
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFCalculationMethod",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG854#001"
+              }
+            ]
+          },
+          "valueType": "xs:string",
+          "value": "ISO 14067",
+          "valueId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#07-ABU218#001"
+              }
+            ]
+          },
+          "modelType": "Property"
+        },
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFCO2eq",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG855#001"
+              }
+            ]
+          },
+          "valueType": "xs:float",
+          "value": "137.7",
+          "modelType": "Property"
+        },
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFReferenceValueForCalculation",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG856#001"
+              }
+            ]
+          },
+          "valueType": "xs:string",
+          "value": "kg",
+          "valueId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#07-ABZ597#001"
+              }
+            ]
+          },
+          "modelType": "Property"
+        },
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFQuantityOfMeasureForCalculation",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG857#001"
+              }
+            ]
+          },
+          "valueType": "xs:double",
+          "value": "1",
+          "modelType": "Property"
+        },
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFLiveCyclePhase",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG858#001"
+              }
+            ]
+          },
+          "valueType": "xs:string",
+          "value": "A2 (Cradle to Grate)",
+          "valueId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#07-ABZ209#001"
+              }
+            ]
+          },
+          "modelType": "Property"
+        },
+        {
+          "idShort": "PCFGoodsAddressHandover",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABI497#001"
+              }
+            ]
+          },
+          "value": [
+            {
+              "category": "PARAMETER",
+              "idShort": "Street",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-ABH956#001"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "Siegener Straße 152",
+              "modelType": "Property"
+            },
+            {
+              "category": "PARAMETER",
+              "idShort": "HouseNumber",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-ABH957#001"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "55",
+              "modelType": "Property"
+            },
+            {
+              "category": "PARAMETER",
+              "idShort": "ZipCode",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-ABH958#001"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "57223",
+              "modelType": "Property"
+            },
+            {
+              "category": "PARAMETER",
+              "idShort": "CityTown",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-ABH959#001"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "Kreuztal",
+              "modelType": "Property"
+            },
+            {
+              "category": "PARAMETER",
+              "idShort": "Country",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-AAO259#005"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "Germany",
+              "modelType": "Property"
+            }
+          ],
+          "modelType": "SubmodelElementCollection"
+        }
+      ],
+      "modelType": "SubmodelElementCollection"
+    },
+    {
+      "idShort": "ProductCarbonFootprint03",
+      "description": [
+        {
+          "language": "en",
+          "text": "Balance of greenhouse gas emissions along the entire life cycle of a product in a defined application and in relation to a defined unit of use"
+        }
+      ],
+      "semanticId": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "0173-1#01-AHE712#001"
+          }
+        ]
+      },
+      "value": [
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFCalculationMethod",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG854#001"
+              }
+            ]
+          },
+          "valueType": "xs:string",
+          "value": "ISO 14067",
+          "valueId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#07-ABU218#001"
+              }
+            ]
+          },
+          "modelType": "Property"
+        },
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFCO2eq",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG855#001"
+              }
+            ]
+          },
+          "valueType": "xs:float",
+          "value": "55.2",
+          "modelType": "Property"
+        },
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFReferenceValueForCalculation",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG856#001"
+              }
+            ]
+          },
+          "valueType": "xs:string",
+          "value": "kg",
+          "valueId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#07-ABZ597#001"
+              }
+            ]
+          },
+          "modelType": "Property"
+        },
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFQuantityOfMeasureForCalculation",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG857#001"
+              }
+            ]
+          },
+          "valueType": "xs:double",
+          "value": "1",
+          "modelType": "Property"
+        },
+        {
+          "category": "PARAMETER",
+          "idShort": "PCFLiveCyclePhase",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABG858#001"
+              }
+            ]
+          },
+          "valueType": "xs:string",
+          "value": "A3 (Production)",
+          "valueId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#07-ABZ210#001"
+              }
+            ]
+          },
+          "modelType": "Property"
+        },
+        {
+          "idShort": "PCFGoodsAddressHandover",
+          "semanticId": {
+            "type": "ExternalReference",
+            "keys": [
+              {
+                "type": "GlobalReference",
+                "value": "0173-1#02-ABI497#001"
+              }
+            ]
+          },
+          "value": [
+            {
+              "category": "PARAMETER",
+              "idShort": "Street",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-ABH956#001"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "Siegener Straße 152",
+              "modelType": "Property"
+            },
+            {
+              "category": "PARAMETER",
+              "idShort": "HouseNumber",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-ABH957#001"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "55",
+              "modelType": "Property"
+            },
+            {
+              "category": "PARAMETER",
+              "idShort": "ZipCode",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-ABH958#001"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "57223",
+              "modelType": "Property"
+            },
+            {
+              "category": "PARAMETER",
+              "idShort": "CityTown",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-ABH959#001"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "Kreuztal",
+              "modelType": "Property"
+            },
+            {
+              "category": "PARAMETER",
+              "idShort": "Country",
+              "semanticId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "0173-1#02-AAO259#005"
+                  }
+                ]
+              },
+              "valueType": "xs:string",
+              "value": "Germany",
+              "modelType": "Property"
+            }
+          ],
+          "modelType": "SubmodelElementCollection"
+        }
+      ],
+      "modelType": "SubmodelElementCollection"
+    }
+  ],
+  "modelType": "Submodel"
+}
