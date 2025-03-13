@@ -1,13 +1,7 @@
 {
   "idShort": "PCFCO2eq",
   "semanticId": {
-    "type": "ExternalReference",
-    "keys": [
-      {
-        "type": "GlobalReference",
-        "value": "0173-1#02-ABG855#001"
-      }
-    ]
+    "type": "ExternalReference"
   },
   "valueType": "xs:float",
   "value": "82.5"
